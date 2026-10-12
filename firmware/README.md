@@ -1,4 +1,5 @@
 ### System Diargram 
+![system-diagram](docs/system-diagram.png)
 
 
 
@@ -15,7 +16,7 @@ UART: 1. PL011:
 
 
 ### Picture   
-![hardware-setup](docs/hardware-setup.jpg)
+![hardware-setup](docs/hardware-setup.png)
 
 ### Docs
 1. Definetion of Primary and Secondary UART Interface: 
