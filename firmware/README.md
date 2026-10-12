@@ -8,11 +8,13 @@ Primary UART interface: /dev/serial0 -> /dev/ttyAMA0 \
 Secondary UART interface: N/A  
 
 ### Controller & Device nodes
-UART: 1. PL011:\
-         - UART0 -> /dev/ttyAMA0\
-         - UART2～5 -> N/A\
-      2. miniUART:\
-         - UART1 -> /dev/ttyS0 
+UART:
+1. PL011:
+   - UART0 -> /dev/ttyAMA0
+   - UART2～5 -> N/A
+2. miniUART:
+   - UART1 -> /dev/ttyS0
+
 
 
 ### Picture   
